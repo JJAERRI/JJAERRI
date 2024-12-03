@@ -32,7 +32,7 @@ I'm Chaerin Yoo, studying Computer Programming at Seneca Polytechnic!
 [![Chaerin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JJAERRI&theme=github)](https://github.com/ChaerinYoo)
 <!-- Theme List: default, react, react-dark, github, high-contrast, gruvbox, rogue, xcode, rose-pine, halloween -->
 
-![Visitor Count](https://komarev.com/ghpvc/?username=JJAERRI&color=blue)
+<!-- Check visitor count(not useful) ![Visitor Count](https://komarev.com/ghpvc/?username=JJAERRI&color=blue) -->
 
 
 <!--
